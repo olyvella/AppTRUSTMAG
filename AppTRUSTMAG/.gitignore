@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+
+# APKs
+*.apk
+*.aab
+
+# Cache
+.cache/
+captures/
+output.json
+
+# Keystore files
+*.jks
+
+# Miscellaneous
+*.log
+*.xml
+*.hprof
+.DS_Store
+Thumbs.db
+
+# OS-specific
+*.swp
+*.swo
